@@ -1,4 +1,4 @@
 ThreeBuckets
 ============
 
-Three Buckets - Financial Project
+Three Buckets - Personal Finance Project
