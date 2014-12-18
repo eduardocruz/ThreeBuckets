@@ -13,5 +13,5 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('laravel4bootstrap3::home');
 });
