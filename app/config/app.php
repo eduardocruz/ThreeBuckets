@@ -121,7 +121,7 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-
+		'Eduardocruz\Laravel4bootstrap3\laravel4bootstrap3ServiceProvider'
 	),
 
 	/*
